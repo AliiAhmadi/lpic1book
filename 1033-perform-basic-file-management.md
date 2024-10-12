@@ -1193,7 +1193,7 @@ root@ubuntu16-1:~/test-space# zip -r myfiles.zip myfiles/
   adding: myfiles/myconf.zip (stored 0%)
 ```
 
-### uzip
+### unzip
 
 A separate companion program, unzip, unpacks and uncompresses zip archives.
 
